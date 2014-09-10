@@ -1,11 +1,11 @@
 {
-  "name": "mean-template",
+  "name": "quick-task",
   "version": "0.0.0",
-  "homepage": "https://github.com/chyld/mean-template",
+  "homepage": "https://github.com/jessicafraines/quick-task",
   "authors": [
-    "Chyld Medford <chyld.medford@gmail.com>"
+    "Jessica Raines <jessicafraines@gmail.com>"
   ],
-  "description": "The MEAN Template",
+  "description": "A Quick Task App",
   "license": "MIT",
   "dependencies": {
     "angular": "1.3.0-rc.0",
